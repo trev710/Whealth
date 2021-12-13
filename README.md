@@ -8,3 +8,4 @@ new wir3frame 2.0.09
 <!-- ein update -->
 <!-- Monke fix -->
 <!-- <new2> -->
+<!-- class fix -->
