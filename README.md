@@ -1,3 +1,3 @@
 # README
 
-Fixed bugs 2
+Fixed bugs 2.0
